@@ -1,4 +1,4 @@
-# MLOps Handbook: From Infrastructure to Fully Automated ML Deployments
+# MLOPS Made Easy: From Infrastructure to Fully Automated ML Deployments
 
 A hands-on, end-to-end guide to the machine learning lifecycle. Each module explains the concepts, then builds a working project you can run, break and extend.
 
@@ -35,8 +35,8 @@ Prerequisites:
 - An AWS account (only for the streaming and capstone parts)
 
 ```bash
-git clone https://github.com/<your-username>/mlops-handbook.git
-cd mlops-handbook
+git clone https://github.com/<your-username>/MLOPS-MADE-EASY.git
+cd MLOPS-MADE-EASY
 python -m venv .venv && source .venv/bin/activate
 ```
 
